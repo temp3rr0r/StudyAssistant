@@ -12,7 +12,7 @@
 #include "TempOneWire.h"
 //#include "I2C.cpp"
 #include "DhtSensor.h"
-#include "Camera.h"
+//#include "Camera.h"
 #include "Bmp085.h"
 #include "DbController.h"
 #include "ThermalZone.h"
@@ -32,7 +32,7 @@ using namespace std;
 void Init(void) {
     system("scripts/modprobe.sh");
     system("scripts/one-wire.sh");
-//    system("scripts/i2c.sh");
+	system("scripts/i2c.sh");
 }
 
 void makeService(void) {
@@ -89,11 +89,11 @@ int main(void)
 		DhtSensor dht;    
 		ThermalZone thermal;
 		CpuFrequency cpuFreq;		
-		Camera vgaCamera;
+		//Camera vgaCamera;
 		Bmp085 bmp085;
 	
 		// Setup sensors
-		vgaCamera.setFilePath("../StudyHelper-WS-Rest/images/");
+		//vgaCamera.setFilePath("../StudyHelper-WS-Rest/images/");
 
 		// Instantiate Controllers
 		DbController myController;	
@@ -123,14 +123,6 @@ int main(void)
 			cout << "Bmp085 Temp: " << bmp085.getTemp() << endl;
 		}	
 		
-		// Set camera settings & get still image
-		vgaCamera.setFileName(currentTimestamp);
-		vgaCamera.setStamp("SysTemp:" + to_string(thermal.getThermalZone())
-			+ " Temp1:" + to_string(digitalTemp.getTemp()) + " Temp2:" + to_stringFloat(dht.getTemp()) + " Temp3:" + to_stringFloat(bmp085.getTemp())
-			+ " Pressure:" + to_stringFloat(bmp085.getPressure())
-			+ " Humidity:" + to_stringFloat(dht.getHum()) + "%");
-		vgaCamera.getScreenshot();
-		
 		/*
 		  ds18b20temp integer,
 		  dht11temp real,
@@ -140,11 +132,10 @@ int main(void)
 		  cpufreq integer,
 		  thermalzone integer,
 		  created timestamp with time zone,
-		  imagepath text,
 		*/
 		
 		string insertString;
-		insertString = "INSERT INTO \"log\" (ds18b20temp, dht11temp, dht11hum, bmp180temp, bmp180pressure, cpufreq, thermalzone, created, imagename) VALUES (";
+		insertString = "INSERT INTO \"log\" (ds18b20temp, dht11temp, dht11hum, bmp180temp, bmp180pressure, cpufreq, thermalzone, created) VALUES (";
 		insertString.append(to_string(digitalTemp.getTemp()));
 		insertString.append(", ");
 		insertString.append(to_string(dht.getTemp()));
@@ -162,8 +153,6 @@ int main(void)
 		insertString.append(to_string(thermal.getThermalZone()));
 		insertString.append(", to_timestamp(");
 		insertString.append(currentTimestamp); // created timestamp
-		insertString.append("), '");
-		insertString.append(currentTimestamp); // imagename
 		insertString.append("');");
 		
 		if (DEBUG)
