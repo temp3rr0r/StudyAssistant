@@ -93,7 +93,7 @@ int main(void)
 		Bmp085 bmp085;
 	
 		// Setup sensors
-		vgaCamera.setFilePath("../BeeHive-WS-Rest/images/");
+		vgaCamera.setFilePath("../StudyHelper-WS-Rest/images/");
 
 		// Instantiate Controllers
 		DbController myController;	
