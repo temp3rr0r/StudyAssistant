@@ -22,10 +22,10 @@
 #include "StringPrecision.h"
 
 #define SERVICE 1
-#define DEBUG 0
+#define DEBUG 1
 #define TEXT_LOG 0
 
-#define LOG_INTERVAL 1800	// Seconds
+#define LOG_INTERVAL 60	// Seconds
 
 using namespace std;
 
@@ -153,7 +153,7 @@ int main(void)
 		insertString.append(to_string(thermal.getThermalZone()));
 		insertString.append(", to_timestamp(");
 		insertString.append(currentTimestamp); // created timestamp
-		insertString.append("');");
+		insertString.append("));");
 		
 		if (DEBUG)
 			cout << insertString << endl;
