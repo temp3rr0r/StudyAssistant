@@ -11,7 +11,7 @@ module.exports = {
         host: 'localhost',
         user: 'madks',
         password: 'ma121284',
-        database: 'sensors'
+        database: 'studyhelper'
     },
     
 // Server HTTP port
