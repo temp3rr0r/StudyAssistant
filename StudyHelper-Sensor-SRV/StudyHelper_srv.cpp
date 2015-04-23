@@ -21,9 +21,9 @@
 
 #define SERVICE 0
 #define DEBUG 1
-#define TEXT_LOG 0
+#define TEXT_LOG 1
 
-#define LOG_INTERVAL 60	// Seconds
+#define LOG_INTERVAL 5*60	// Seconds
 
 using namespace std;
 
@@ -95,15 +95,14 @@ int main(void)
 
 		tx = TextLogger::getInstance();
 
-		// Declare custom type vectors
-		if(TEXT_LOG)
-			tx->log("Init.");
-			
 		// Variables	
 		time_t timestamp;
 		time(&timestamp);
 		string currentTimestamp = to_string(timestamp);
 		
+               if(TEXT_LOG)
+                      tx->log(currentTimestamp + ": Init.");
+               
 		if (DEBUG) {
 			cout << "Digital Temp: " << digitalTemp.getTemp() << endl;
 			cout << "Cpu frequency: " << cpuFreq.getCpuFreq() << endl;
@@ -157,6 +156,9 @@ int main(void)
 			}
 		} catch (...) {
 			cout << "Postgres Exception." << endl;
+	               if(TEXT_LOG)
+	                        tx->log(currentTimestamp + ": Postgres Exception.");
+
 		}		
 	
 		sleep(LOG_INTERVAL);
