@@ -21,7 +21,7 @@
 #include "TextLogger.h"
 #include "StringPrecision.h"
 
-#define SERVICE 1
+#define SERVICE 0
 #define DEBUG 1
 #define TEXT_LOG 0
 
@@ -74,7 +74,7 @@ void makeService(void) {
 
 int main(void)
 {
-	cout << "ok1";
+	cout << "Starting SleepHelper service" << endl;
 	if (SERVICE)
 		makeService();
 	
@@ -158,12 +158,16 @@ int main(void)
 		if (DEBUG)
 			cout << insertString << endl;
 
-		if(myController.connect()) {
+		try {
+			if(myController.connect()) {
 		
-			myController.execCommandInsert(insertString);
-			myController.close();
-		}
-			
+				myController.execCommandInsert(insertString);
+				myController.close();
+			}
+		} catch (...) {
+			cout << "Postgres Exception." << endl;
+		}		
+	
 		sleep(LOG_INTERVAL);
 	}
 	exit(EXIT_SUCCESS);

@@ -152,5 +152,5 @@ public:
 
 DbController::DbController() {
 // 	conninfo = "dbname=sensors";
-	conninfo = "host=localhost port=5432 dbname=sensors connect_timeout=10 user=madks password=ma121284";
+	conninfo = "host=localhost port=5432 dbname=studyhelper connect_timeout=10 user=madks password=ma121284";
 }
