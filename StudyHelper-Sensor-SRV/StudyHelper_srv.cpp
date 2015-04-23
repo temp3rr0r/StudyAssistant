@@ -12,12 +12,10 @@
 #include "TempOneWire.h"
 //#include "I2C.cpp"
 #include "DhtSensor.h"
-//#include "Camera.h"
 #include "Bmp085.h"
 #include "DbController.h"
 #include "ThermalZone.h"
 #include "CpuFrequency.h"
-//#include "QueryLogger.h"
 #include "TextLogger.h"
 #include "StringPrecision.h"
 
@@ -89,19 +87,12 @@ int main(void)
 		DhtSensor dht;    
 		ThermalZone thermal;
 		CpuFrequency cpuFreq;		
-		//Camera vgaCamera;
 		Bmp085 bmp085;
-	
-		// Setup sensors
-		//vgaCamera.setFilePath("../StudyHelper-WS-Rest/images/");
 
 		// Instantiate Controllers
 		DbController myController;	
-		//QueryLogger *ql;
 		TextLogger *tx;
 
-		// Instantiate sensors vector, flow sensor and the loggers
-		//ql = QueryLogger::getInstance();
 		tx = TextLogger::getInstance();
 
 		// Declare custom type vectors
