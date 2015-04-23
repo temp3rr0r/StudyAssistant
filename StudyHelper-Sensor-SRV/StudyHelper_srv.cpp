@@ -17,7 +17,7 @@
 #include "DbController.h"
 #include "ThermalZone.h"
 #include "CpuFrequency.h"
-#include "QueryLogger.h"
+//#include "QueryLogger.h"
 #include "TextLogger.h"
 #include "StringPrecision.h"
 
@@ -97,11 +97,11 @@ int main(void)
 
 		// Instantiate Controllers
 		DbController myController;	
-		QueryLogger *ql;
+		//QueryLogger *ql;
 		TextLogger *tx;
 
 		// Instantiate sensors vector, flow sensor and the loggers
-		ql = QueryLogger::getInstance();
+		//ql = QueryLogger::getInstance();
 		tx = TextLogger::getInstance();
 
 		// Declare custom type vectors
