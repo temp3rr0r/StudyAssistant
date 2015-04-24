@@ -13,6 +13,9 @@
 //#include "I2C.cpp"
 #include "DhtSensor.h"
 #include "Bmp085.h"
+
+#include "AnalogSensor.h"
+
 #include "DbController.h"
 #include "ThermalZone.h"
 #include "CpuFrequency.h"
@@ -88,6 +91,7 @@ int main(void)
 		ThermalZone thermal;
 		CpuFrequency cpuFreq;		
 		Bmp085 bmp085;
+		AnalogSensor mcp3008;
 
 		// Instantiate Controllers
 		DbController myController;	
@@ -111,6 +115,8 @@ int main(void)
 			cout << "DHT humidity: " << dht.getHum() << endl;
 
 			cout << "Bmp085 Temp: " << bmp085.getTemp() << endl;
+			for (int i = 0; i < 8; i++)
+				cout << "Analog sensor " << i << ": " << mcp3008.getAdc(i) << endl;
 		}	
 		
 		/*
