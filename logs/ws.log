@@ -12,3 +12,400 @@ Encrypting password field
 Fetching user by login/pass
 Showing all logs
 192.168.1.5 - uaAfp33 [Thu, 23 Apr 2015 10:45:16 GMT] "GET /logs HTTP/1.1" 200 2088 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.1.5 - uaAfp33 [Thu, 23 Apr 2015 10:58:16 GMT] "GET /logs HTTP/1.1" 200 3130 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+error: Could not read .foreverignore file.
+error: ENOENT, open '/home/madks/StudyHelper/StudyHelper-WS-Rest/.foreverignore'
+Express server listening on port 8443
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+error: terminating connection due to administrator command
+    at Connection.parseE (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:526:11)
+    at Connection.parseMessage (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:356:17)
+    at Socket.<anonymous> (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:105:22)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:748:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:410:10)
+    at emitReadable (_stream_readable.js:406:5)
+    at readableAddChunk (_stream_readable.js:168:9)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+error: Could not read .foreverignore file.
+error: ENOENT, open '/home/madks/StudyHelper/StudyHelper-WS-Rest/.foreverignore'
+Express server listening on port 8443
+error: Could not read .foreverignore file.
+error: ENOENT, open '/home/madks/StudyHelper/StudyHelper-WS-Rest/.foreverignore'
+Express server listening on port 8443
+error: Could not read .foreverignore file.
+error: ENOENT, open '/home/madks/StudyHelper/StudyHelper-WS-Rest/.foreverignore'
+Express server listening on port 8443
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+error: terminating connection due to administrator command
+    at Connection.parseE (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:526:11)
+    at Connection.parseMessage (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:356:17)
+    at Socket.<anonymous> (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:105:22)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:748:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:410:10)
+    at emitReadable (_stream_readable.js:406:5)
+    at readableAddChunk (_stream_readable.js:168:9)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+error: Could not read .foreverignore file.
+error: ENOENT, open '/home/madks/StudyHelper/StudyHelper-WS-Rest/.foreverignore'
+Express server listening on port 8443
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+error: terminating connection due to administrator command
+    at Connection.parseE (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:526:11)
+    at Connection.parseMessage (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:356:17)
+    at Socket.<anonymous> (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:105:22)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:748:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:410:10)
+    at emitReadable (_stream_readable.js:406:5)
+    at readableAddChunk (_stream_readable.js:168:9)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+error: Could not read .foreverignore file.
+error: ENOENT, open '/home/madks/StudyHelper/StudyHelper-WS-Rest/.foreverignore'
+Express server listening on port 8443
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+error: terminating connection due to administrator command
+    at Connection.parseE (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:526:11)
+    at Connection.parseMessage (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:356:17)
+    at Socket.<anonymous> (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:105:22)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:748:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:410:10)
+    at emitReadable (_stream_readable.js:406:5)
+    at readableAddChunk (_stream_readable.js:168:9)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+error: Could not read .foreverignore file.
+error: ENOENT, open '/home/madks/StudyHelper/StudyHelper-WS-Rest/.foreverignore'
+Express server listening on port 8443
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+error: terminating connection due to administrator command
+    at Connection.parseE (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:526:11)
+    at Connection.parseMessage (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:356:17)
+    at Socket.<anonymous> (/home/madks/StudyHelper/StudyHelper-WS-Rest/node_modules/pg/lib/connection.js:105:22)
+    at Socket.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:748:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:410:10)
+    at emitReadable (_stream_readable.js:406:5)
+    at readableAddChunk (_stream_readable.js:168:9)
+    at Socket.Readable.push (_stream_readable.js:130:10)
+error: Forever detected script exited with code: 8
+error: Script restart attempt #1
+error: Could not read .foreverignore file.
+error: ENOENT, open '/home/madks/StudyHelper/StudyHelper-WS-Rest/.foreverignore'
+Express server listening on port 8443
+192.168.43.210 - - [Fri, 24 Apr 2015 20:23:23 GMT] "GET / HTTP/1.1" 401 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:23:47 GMT] "GET / HTTP/1.1" 302 68 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Login ok
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:23:48 GMT] "GET /login HTTP/1.1" 200 8 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:23:48 GMT] "GET /favicon.ico HTTP/1.1" 404 24 "https://192.168.43.72:8443/login" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:23:53 GMT] "GET /logs HTTP/1.1" 200 8085 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:24:02 GMT] "GET /log HTTP/1.1" 200 263 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:27:16 GMT] "GET /log HTTP/1.1" 200 260 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:27:17 GMT] "GET /log HTTP/1.1" 200 260 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:27:18 GMT] "GET /log HTTP/1.1" 200 260 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:27:18 GMT] "GET /log HTTP/1.1" 200 260 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:27:19 GMT] "GET /log HTTP/1.1" 200 260 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:27:19 GMT] "GET /log HTTP/1.1" 200 260 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:27:19 GMT] "GET /log HTTP/1.1" 200 260 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:27:38 GMT] "GET /logs HTTP/1.1" 200 8343 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+192.168.43.19 - - [Fri, 24 Apr 2015 20:32:19 GMT] "GET /logs HTTP/1.1" 401 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Fri, 24 Apr 2015 20:32:51 GMT] "GET /logs HTTP/1.1" 200 8343 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+192.168.43.19 - uaAfp33 [Fri, 24 Apr 2015 20:32:52 GMT] "GET /favicon.ico HTTP/1.1" 404 24 "https://192.168.43.72:8443/logs" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Fri, 24 Apr 2015 20:51:00 GMT] "GET /log HTTP/1.1" 200 263 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 12:23:08 GMT] "GET /log HTTP/1.1" 200 263 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 12:23:27 GMT] "GET /logs HTTP/1.1" 200 9126 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 12:25:23 GMT] "GET /logs HTTP/1.1" 200 9387 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 14:18:49 GMT] "GET /logs HTTP/1.1" 200 9648 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 14:41:14 GMT] "GET /logs HTTP/1.1" 200 10170 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 14:54:00 GMT] "GET /logs HTTP/1.1" 200 10431 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:24:19 GMT] "GET /logs HTTP/1.1" 401 - "-" "Java/1.7.0_60"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:24:29 GMT] "GET /logs HTTP/1.1" 401 - "-" "Java/1.7.0_60"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:37:38 GMT] "GET /logs HTTP/1.1" 401 - "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 15:37:57 GMT] "GET /logs HTTP/1.1" 200 12255 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:38:07 GMT] "GET /logs HTTP/1.1" 401 - "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 15:49:27 GMT] "GET /logs HTTP/1.1" 200 14331 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 15:49:29 GMT] "GET /logs HTTP/1.1" 200 14331 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:49:58 GMT] "GET /logs HTTP/1.1" 401 - "-" "Java/1.7.0_60"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:49:58 GMT] "GET /logs HTTP/1.1" 401 - "-" "Java/1.7.0_60"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:49:58 GMT] "GET /logs HTTP/1.1" 401 - "-" "Java/1.7.0_60"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:49:59 GMT] "GET /logs HTTP/1.1" 401 - "-" "Java/1.7.0_60"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:49:59 GMT] "GET /logs HTTP/1.1" 401 - "-" "Java/1.7.0_60"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:51:23 GMT] "GET /logs HTTP/1.1" 401 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:37.0) Gecko/20100101 Firefox/37.0"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:51:40 GMT] "GET /favicon.ico HTTP/1.1" 401 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:37.0) Gecko/20100101 Firefox/37.0"
+192.168.43.19 - - [Sat, 25 Apr 2015 15:51:40 GMT] "GET /favicon.ico HTTP/1.1" 401 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:37.0) Gecko/20100101 Firefox/37.0"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:00:47 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+Showing all logs
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:00:58 GMT] "GET /log HTTP/1.1" 200 373 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:00:58 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:01:16 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:01:16 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:01:16 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:01:17 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:01:17 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:01:51 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:01:52 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:01:52 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:01:52 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:02:16 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:02:16 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:02:16 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:02:17 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:02:17 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:08:13 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:08:36 GMT] "GET /logs HTTP/1.1" 200 20862 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:15:46 GMT] "GET /logs HTTP/1.1" 200 21597 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:17:32 GMT] "GET /log HTTP/1.1" 200 366 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:20:24 GMT] "GET /logs HTTP/1.1" 200 22332 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:20:37 GMT] "GET /logs HTTP/1.1" 200 22332 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:23:45 GMT] "GET /logs HTTP/1.1" 200 22698 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:23:52 GMT] "GET /logs HTTP/1.1" 200 22698 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+192.168.43.19 - - [Sat, 25 Apr 2015 16:24:07 GMT] "GET /logs HTTP/1.1" 401 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:37.0) Gecko/20100101 Firefox/37.0"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:24:19 GMT] "GET /logs HTTP/1.1" 200 22698 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:25:10 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:25:27 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:25:30 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:26:52 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:26:53 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:26:53 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:26:54 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:26:54 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:26:54 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:26:54 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:26:55 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:26:55 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:26:55 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:26:55 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:27:35 GMT] "GET /logs HTTP/1.1" 200 23430 "-" "Java/1.7.0_60"
+Encrypting password field
+Fetching user by login/pass
+Showing last Log entry
+192.168.43.210 - uaAfp33 [Sat, 25 Apr 2015 16:27:37 GMT] "GET /log HTTP/1.1" 200 368 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36"
+Encrypting password field
+Fetching user by login/pass
+Showing all logs
+192.168.43.19 - uaAfp33 [Sat, 25 Apr 2015 16:27:43 GMT] "GET /logs HTTP/1.1" 200 23430 "-" "Java/1.7.0_60"

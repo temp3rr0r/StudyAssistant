@@ -18,6 +18,9 @@
 
 #include "DbController.h"
 #include "ThermalZone.h"
+
+#include "ArduinoAnalogSensor.h"
+
 #include "CpuFrequency.h"
 #include "TextLogger.h"
 #include "StringPrecision.h"
@@ -92,6 +95,7 @@ int main(void)
 		CpuFrequency cpuFreq;		
 		Bmp085 bmp085;
 		AnalogSensor mcp3008;
+		ArduinoAnalogSensor unoArduino;
 
 		// Instantiate Controllers
 		DbController myController;	
@@ -115,8 +119,12 @@ int main(void)
 			cout << "DHT humidity: " << dht.getHum() << endl;
 
 			cout << "Bmp085 Temp: " << bmp085.getTemp() << endl;
-			for (int i = 0; i < 8; i++)
-				cout << "Analog sensor " << i << ": " << mcp3008.getAdc(i) << endl;
+
+			cout << "Uno Arduino Alcohol: " << unoArduino.getAlcohol() << endl;
+			cout << "Uno Arduino Methaine: " << unoArduino.getMethaine() << endl;
+			cout << "Uno Arduino Loudness: " << unoArduino.getLoudness() << endl;
+			cout << "Uno Arduino Light: " << unoArduino.getLight() << endl;
+
 		}	
 		
 		/*
@@ -131,7 +139,7 @@ int main(void)
 		*/
 		
 		string insertString;
-		insertString = "INSERT INTO \"log\" (ds18b20temp, dht11temp, dht11hum, bmp180temp, bmp180pressure, cpufreq, thermalzone, created) VALUES (";
+		insertString = "INSERT INTO \"log\" (ds18b20temp, dht11temp, dht11hum, bmp180temp, bmp180pressure, cpufreq, thermalzone, arduinoalcohol, arduinomethaine, arduinoloudness, arduinolight, created) VALUES (";
 		insertString.append(to_string(digitalTemp.getTemp()));
 		insertString.append(", ");
 		insertString.append(to_string(dht.getTemp()));
@@ -146,7 +154,19 @@ int main(void)
 
 		insertString.append(to_string(cpuFreq.getCpuFreq()));
 		insertString.append(", ");
+
 		insertString.append(to_string(thermal.getThermalZone()));
+		insertString.append(", ");
+                
+		insertString.append(to_string(unoArduino.getAlcohol()));
+                insertString.append(", ");
+                insertString.append(to_string(unoArduino.getMethaine()));
+                insertString.append(", ");
+                insertString.append(to_string(unoArduino.getLoudness()));
+                insertString.append(", ");
+                insertString.append(to_string(unoArduino.getLight()));
+
+
 		insertString.append(", to_timestamp(");
 		insertString.append(currentTimestamp); // created timestamp
 		insertString.append("));");
