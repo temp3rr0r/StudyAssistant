@@ -22,11 +22,11 @@
 #include "TextLogger.h"
 #include "StringPrecision.h"
 
-#define SERVICE 1
+#define SERVICE 0
 #define DEBUG 1
-#define TEXT_LOG 0
+#define TEXT_LOG 1
 
-#define LOG_INTERVAL 600	// Seconds
+#define LOG_INTERVAL 5*60	// Seconds
 
 using namespace std;
 

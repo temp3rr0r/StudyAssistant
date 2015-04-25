@@ -18,11 +18,14 @@
 
 #include "DbController.h"
 #include "ThermalZone.h"
+
+#include "ArduinoAnalogSensor.h"
+
 #include "CpuFrequency.h"
 #include "TextLogger.h"
 #include "StringPrecision.h"
 
-#define SERVICE 1
+#define SERVICE 0
 #define DEBUG 1
 #define TEXT_LOG 0
 
@@ -92,6 +95,7 @@ int main(void)
 		CpuFrequency cpuFreq;		
 		Bmp085 bmp085;
 		AnalogSensor mcp3008;
+		ArduinoAnalogSensor unoArduino;
 
 		// Instantiate Controllers
 		DbController myController;	
@@ -115,8 +119,12 @@ int main(void)
 			cout << "DHT humidity: " << dht.getHum() << endl;
 
 			cout << "Bmp085 Temp: " << bmp085.getTemp() << endl;
-			for (int i = 0; i < 8; i++)
-				cout << "Analog sensor " << i << ": " << mcp3008.getAdc(i) << endl;
+
+			cout << "Uno Arduino Alcohol: " << unoArduino.getAlcohol() << endl;
+			cout << "Uno Arduino Methaine: " << unoArduino.getMethaine() << endl;
+			cout << "Uno Arduino Loudness: " << unoArduino.getLoudness() << endl;
+			cout << "Uno Arduino Light: " << unoArduino.getLight() << endl;
+
 		}	
 		
 		/*
