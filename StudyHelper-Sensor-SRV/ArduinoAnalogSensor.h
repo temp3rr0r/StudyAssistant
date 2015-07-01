@@ -1,3 +1,6 @@
+#ifndef ARDUINOANALOGSENSOR_H
+#define ARDUINOANALOGSENSOR_H
+
 #include <string.h>
 #include <unistd.h>
 #include <errno.h>
@@ -101,3 +104,5 @@ ArduinoAnalogSensor::ArduinoAnalogSensor() {
 	loudness = 0;
 	light = 0;
 }
+
+#endif /* ARDUINOANALOGSENSOR_H */
