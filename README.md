@@ -5,7 +5,11 @@ Winning application
 Project: Study Assistant - Environmental Recommender System.
 
 Description:
+
 + Internet of Things Web Services architecture.
++ Generates the "Study Productivity" index (based on an weighted aggregated formula of non-linear sub-indices calculation).
++ Provides "recommendations" in order to improve the productivity of the currently monitored environment.​​
++ Contest entry: http://devpost.com/software/studentassistant​
 
 Monitors the environment via the sensors:
 
@@ -15,7 +19,3 @@ Monitors the environment via the sensors:
 + "Loudness" (ratio)
 + Luminance (Lux)
 + 2x Gas sensors (concentration of alcohol & methane)​
-
-+ Generates the "Study Productivity" index (based on an weighted aggregated formula of non-linear sub-indices calculation).
-+ Provides "recommendations" in order to improve the productivity of the currently monitored environment.​​
-+ Contest entry: http://devpost.com/software/studentassistant​
