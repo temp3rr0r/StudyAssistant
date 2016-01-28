@@ -5,8 +5,8 @@ Apps for Students Hackathon - 26/4/2015 - ​University KULeuven (https://bib.ku
 * Project: Study Assistant environmental recommendation system.
 * Source code: https://bitbucket.org/universiteitantwerpen/studyhelper​
 * Description:
-** Internet of things architecture.
-** Monitors the environment via the sensors:
+* Internet of things architecture.
+⋅⋅* Monitors the environment via the sensors:
 ** Ambient Temperature (C)
 ** Humidity (%)
 ** Air pressure (KPascal)
