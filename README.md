@@ -8,6 +8,7 @@ Description:
 + Internet of Things Web Services architecture.
 
 Monitors the environment via the sensors:
+
 + Ambient Temperature (C)
 + Humidity (%)
 + Air pressure (KPascal)
