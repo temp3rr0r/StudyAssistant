@@ -8,7 +8,7 @@
 + Internet of Things Web Services architecture.
 + Generates the "Study Productivity" index (based on an weighted aggregated formula of non-linear sub-indices calculation).
 + Provides "recommendations" in order to improve the productivity of the currently monitored environment.​​
-+ Contest entry: *http://devpost.com/software/studentassistant​*
++ Contest entry: http://devpost.com/software/studentassistant​
 
 ##Monitors the environment via the sensors:
 
