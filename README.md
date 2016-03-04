@@ -1,7 +1,6 @@
 #Study Assistant - Internet of Things Environmental Recommender System#
 
-*Winning application*
-26/4/2015 - Apps for Students Hackathon​ - ​University *KULeuven* (https://bib.kuleuven.be/agora/nieuws/afthackathon​)
+**Winning application** 26/4/2015 - Apps for Students Hackathon​ - ​University *KULeuven* (https://bib.kuleuven.be/agora/nieuws/afthackathon​)
 
 ###Description:
 
